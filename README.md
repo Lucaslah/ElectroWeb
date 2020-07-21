@@ -1,4 +1,4 @@
-# ElectroWeb ![logo](7BC779BC-2CC7-4EA3-9212-4B85A2385B2D.png)
+# ElectroWeb ![logo](AD53D34F-0046-4A1D-A221-CC07AD6BAB71.png)
 An election based web browser.
 
 ### Supported Devices:
