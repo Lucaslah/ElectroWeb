@@ -1,6 +1,6 @@
 # ElectroWeb ![logo](F9C1B4E3-0165-4A3C-BBCD-474D31C5B570.png)  
  
-An election based web browser.
+An electron based web browser.
 
 ### Supported Devices:
 1. macOS (Coming soon)
