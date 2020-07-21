@@ -24,3 +24,4 @@ An election based web browser.
 ## Screenshot
 
 ![screenshot](EDC1E3ED-B82F-46AA-8038-1A9B139A7F6C.jpeg) 
+ 
