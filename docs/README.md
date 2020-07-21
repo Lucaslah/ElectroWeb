@@ -1,4 +1,4 @@
-# ElectroWeb ![logo](imj/EA043F8E-4920-454A-9297-E1F1AC5F8694.png)  
+# ElectroWeb ![logo](F9C1B4E3-0165-4A3C-BBCD-474D31C5B570.png)  
  
 An election based web browser.
 
