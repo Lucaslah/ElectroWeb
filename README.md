@@ -14,11 +14,11 @@ An election based web browser.
 2. Follow installer from there.
 
 ### Packages
-macOS:
-Windows:
-Lunix:
-IOS:
-Android:
+- macOS:
+- Windows:
+- Lunix:
+- IOS:
+- Android:
 
 ## Screenshot
 
