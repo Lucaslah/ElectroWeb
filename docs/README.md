@@ -7,6 +7,7 @@ An election based web browser.
 2. Windows 10 (Coming soon)
 3. Lunix (Most distros) (Coming soon)
 4. Windows Server (Coming soon)
+- PLEASE NOTE THE IOS AND ANDROID BUILDS WILL NOT BE BUILD WITH ELECTRON DEW TO LACK OF SUPPORT FOR MOBLE.
 5. IOS (Coming soon)
 6. Android (Coming soon)
 
