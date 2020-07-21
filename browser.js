@@ -14,7 +14,7 @@ onload = function() {
   };
 
   document.querySelector('#home').onclick = function() {
-    navigateTo('http://www.github.com/');
+    navigateTo('http://google.com/');
   };
 
   document.querySelector('#reload').onclick = function() {
