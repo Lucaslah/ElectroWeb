@@ -3,7 +3,7 @@
 An electron based web browser.
 
 ## Table of contents
-1. [Supported Devices] (url)
+1. [Supported Devices](url)
 
 ### Supported Devices:
 1. macOS (Coming soon)
