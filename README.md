@@ -57,3 +57,6 @@ An electron based web browser.
 ### Help
 
 Help info is coming soon
+
+### Coming soon!
+- Support for multiable tabs
