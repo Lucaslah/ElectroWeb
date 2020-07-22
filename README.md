@@ -2,6 +2,9 @@
  
 An electron based web browser.
 
+## Table of contents
+1. [Supported Devices] (url)
+
 ### Supported Devices:
 1. macOS (Coming soon)
 2. Windows 10 (Coming soon)
