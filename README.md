@@ -3,8 +3,8 @@
 An electron based web browser.
 
 ## Table of contents
-1. [Supported Devices](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#how-to-install)
-2. [How to Install]()
+1. [Supported Devices](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#supported-devices)
+2. [How to Install](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#how-to-install)
 3. [Lunix Install]()
 4. [Packages]()
 5. [Other ways to Install]()
