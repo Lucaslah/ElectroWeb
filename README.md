@@ -49,6 +49,10 @@ An electron based web browser.
 6. run npm start.
 7. Wait untill the app opens.
 
-## Screenshot
+### Screenshot
 
 ![screenshot](imj/8889FF21-6691-4C98-B373-96B622DAA454.jpeg)
+
+### Help
+
+Help info is coming soon
