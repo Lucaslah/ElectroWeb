@@ -11,6 +11,7 @@ An electron based web browser.
 6. [Build from code](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#build-from-code)
 7. [Screenshot](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#screenshot)
 8. [Help](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#help)
+9. [Coming soon](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#coming-soon)
 
 ### Supported Devices:
 1. macOS (Coming soon)
