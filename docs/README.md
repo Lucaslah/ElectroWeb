@@ -42,4 +42,4 @@ An electron based web browser.
 
 ## Screenshot
 
-![screenshot](imj/8889FF21-6691-4C98-B373-96B622DAA454.jpeg)
+![screenshot](EDC1E3ED-B82F-46AA-8038-1A9B139A7F6C.jpeg)
