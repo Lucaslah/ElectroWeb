@@ -15,12 +15,29 @@ An electron based web browser.
 1. Download the package for you OS.
 2. Follow installer from there.
 
+### Lunix Install
+1. Download the correct file from the link below for you lunix distro
+2. If on ubuntu or debian, open downloaded file by clicking on it twice, this should open the package manager, hit install.
+3. For more help open an issue or look up more help, open issues that have be solved will be closed and if needed add to documentery.
+
 ### Packages
 - macOS:
 - Windows:
 - Lunix:
 - IOS:
 - Android:
+
+### Other ways to install.
+1. Build from code.
+
+#### Build from code
+1. Install NPM and git on lunix, windows, or macOS.
+2. Install electron: link to install.
+3. Clone this repostery.
+4. cd to the folder you just cloned.
+5. run npm install.
+6. run npm start.
+7. Wait untill the app opens.
 
 ## Screenshot
 
