@@ -42,7 +42,7 @@ An electron based web browser.
 1. Build from code.
 
 #### Build from code
-0. open terminal or git shell
+0. Open terminal or git shell
 1. Install NPM and git on lunix, windows, or macOS.
 2. Install electron: link to install.
 3. Clone this repostery.
