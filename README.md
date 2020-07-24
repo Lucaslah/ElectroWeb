@@ -4,14 +4,14 @@ An electron based web browser.
 
 ## Table of contents
 1. [Supported Devices](#supported-devices)
-2. [How to Install](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#how-to-install)
-3. [Lunix Install](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#lunix-install)
+2. [How to Install](#how-to-install)
+3. [Lunix Install](#lunix-install)
 4. [Packages](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#packages)
-5. [Other ways to Install](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#other-ways-to-install)
-6. [Build from code](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#build-from-code)
-7. [Screenshot](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#screenshot)
-8. [Help](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#help)
-9. [Coming soon](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#coming-soon)
+5. [Other ways to Install](#other-ways-to-install)
+6. [Build from code](#build-from-code)
+7. [Screenshot](#screenshot)
+8. [Help](#help)
+9. [Coming soon](#coming-soon)
 
 ### Supported Devices:
 1. macOS (Coming soon)
