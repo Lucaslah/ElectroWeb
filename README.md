@@ -6,7 +6,7 @@ An electron based web browser.
 1. [Supported Devices](#supported-devices)
 2. [How to Install](#how-to-install)
 3. [Lunix Install](#lunix-install)
-4. [Packages](https://github.com/Lucaslah/ElectroWeb/blob/master/README.md#packages)
+4. [Packages](#packages)
 5. [Other ways to Install](#other-ways-to-install)
 6. [Build from code](#build-from-code)
 7. [Screenshot](#screenshot)
