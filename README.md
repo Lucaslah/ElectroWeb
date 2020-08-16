@@ -2,6 +2,8 @@
  
 An electron based web browser.
 
+###### Please Note: ElectroWeb has a tabed working app but it is still in develment see [ElectroWeb Dev Unstable]() for more info.
+
 ## Table of contents
 1. [Supported Devices](#supported-devices)
 2. [How to Install](#how-to-install)
