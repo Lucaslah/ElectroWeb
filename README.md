@@ -36,7 +36,7 @@ An electron based web browser.
 3. For more help open an issue or look up more help, open issues that have be solved will be closed and if needed add to documentery.
 
 ### Packages
-- macOS:[Download Link]()
+- macOS: [Download Link]()
 - Windows: [Download Link](https://fileftp1-cssudii.web.app/ElectroWeb-Setup.exe)
 - Lunix:
 - IOS:
