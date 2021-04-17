@@ -2,11 +2,13 @@
 <img alt="logo" src="imj/EA043F8E-4920-454A-9297-E1F1AC5F8694.png">
 </h1>
 
-<h1 align="center">
- ElectroWeb
- </h1>
- 
-An electron based web browser
+<p align="center">
+ <img width="120px" src="imj/EA043F8E-4920-454A-9297-E1F1AC5F8694.png" />
+</p>
+
+<h1 align="center">ElectroWeb</h1>
+
+<p align="center">An electron based web browser</p>
 
 ## Table of contents
 1. [Supported Devices](#supported-devices)
