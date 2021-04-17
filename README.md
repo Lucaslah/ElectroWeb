@@ -1,10 +1,6 @@
 # ElectroWeb ![logo](imj/EA043F8E-4920-454A-9297-E1F1AC5F8694.png)  
  
-An electron based web browser.
-
-###### Please Note: ElectroWeb has a tabed working app but it is still in develment see [ElectroWeb Dev Unstable](https://github.com/Lucaslah/ElectroWeb-Dev/tree/master/ElectroWeb%20Unstable) for more info.
-
-###### The Dev Brantch is NOT working. ElectroWeb Dev is a differnet Repository!
+An electron based web browser
 
 ## Table of contents
 1. [Supported Devices](#supported-devices)
