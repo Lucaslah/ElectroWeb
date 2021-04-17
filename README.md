@@ -1,8 +1,10 @@
 <h1 align="center">
-<img alt="logo" src="img/EA043F8E-4920-454A-9297-E1F1AC5F8694.png">
+<img alt="logo" src="imj/EA043F8E-4920-454A-9297-E1F1AC5F8694.png">
 </h1>
 
-# ElectroWeb
+<h1 align="center">
+ ElectroWeb
+ </h1>
  
 An electron based web browser
 
