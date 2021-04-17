@@ -1,3 +1,0 @@
-# Lunix
-
-COMING SOON
