@@ -1,4 +1,8 @@
-# ElectroWeb ![logo](imj/EA043F8E-4920-454A-9297-E1F1AC5F8694.png)  
+<h1 align="center">
+<img alt="logo" src="img/EA043F8E-4920-454A-9297-E1F1AC5F8694.png">
+</h1>
+
+# ElectroWeb
  
 An electron based web browser
 
