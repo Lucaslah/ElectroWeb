@@ -16,8 +16,10 @@
 - Windows: [Download Link](https://fileftp1-cssudii.web.app/ElectroWeb-Setup.exe)
 - Liunx: 
 
-## Build from Code
-Soon
+## Build from Source
+- Clone Repo
+- Install Dependency's
+- Run npm start
 
 ## Screenshot
 Soon
