@@ -2,7 +2,7 @@ const { app, BrowserWindow } = require('electron');
 
 let mainWindow;
 
-app.on('window-all-closed', function() {
+app.on('window-all-closed', => {
   if (process.platform !== 'darwin') {
   app.quit();
   }
