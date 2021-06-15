@@ -1,1 +1,1 @@
-import {} from "";
+import {} from "electron";
