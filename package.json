@@ -1,5 +1,30 @@
 {
-  "name": "ElectroWeb",
-  "version": "1.1.0",
-  "main": "main.js"
+    "name":"ElectroWeb",
+    "version":"2.0.0",
+    "main":"public/Main.js",
+    "homepage":"./",
+    "private":true,
+    "dependencies":{
+        "react":"^16.4.2",
+        "react-dom":"^16.4.2",
+        "react-scripts":"1.1.5"
+    },
+    "scripts":{
+        "start":"react-scripts start",
+        "build":"react-scripts build",
+        "test":"react-scripts test --env=jsdom",
+        "eject":"react-scripts eject",
+        "electron-start":"electron .",
+        "preelectron-pack":"npm run build",
+        "electron-pack":"build --win --macos -c.extraMetadata.main=build/Main.js"
+    },
+    "build":{
+        "files":[
+            "build/**/*",
+            "node_modules/**/*"
+        ],
+        "directories":{
+            "buildResources":"assets"
+        }
+    }
 }
