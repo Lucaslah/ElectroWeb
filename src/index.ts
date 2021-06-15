@@ -1,1 +1,1 @@
-import {} from "electron";
+import { app, BrowserWindow } from "electron";
