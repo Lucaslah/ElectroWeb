@@ -1,8 +1,12 @@
+// @ts-nocheck
+
+import { homeURL } from "../config";
+
 window.onresize = doLayout;
 var isLoading = false;
 
 onload = () => {
-  const webview: HTMLInputElement = document.querySelector('webview');
+  const webview: any = document.querySelector('webview');
   doLayout();
 
   document.querySelector<HTMLInputElement>('#back').onclick = () => {
@@ -14,7 +18,7 @@ onload = () => {
   };
 
   document.querySelector<HTMLInputElement>('#home').onclick = () => {
-    navigateTo('http://google.com/');
+    navigateTo(homeURL);
   };
 
   document.querySelector<HTMLInputElement>('#reload').onclick = function() {
@@ -26,15 +30,15 @@ onload = () => {
   };
   document.querySelector<HTMLInputElement>('#reload').addEventListener(
     'webkitAnimationIteration',
-    function() {
+    () => {
       if (!isLoading) {
         document.body.classList.remove('loading');
       }
     });
 
-  document.querySelector<HTMLInputElement>('#location-form').onsubmit = function(e) {
+  document.querySelector<HTMLInputElement>('#location-form').onsubmit = (e) => {
     e.preventDefault();
-    navigateTo(document.querySelector('#location').value);
+    navigateTo(document.querySelector<HTMLInputElement>('#location').value);
   };
 
   webview.addEventListener('close', handleExit);

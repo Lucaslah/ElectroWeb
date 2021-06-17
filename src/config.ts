@@ -1,1 +1,1 @@
-export const homeURL: string = "https://google.com";
+export const homeURL: string = "https://google.com/";

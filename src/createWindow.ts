@@ -23,4 +23,8 @@ export default class createWindow extends BrowserWindow {
     public init(): void {
         console.log("Starting ElectoWeb Dev....");
     }
+
+    public createloadURL(url: string): void {
+        this.loadURL(url); // 'file://' + __dirname + '/browser.html'
+    }
 }
